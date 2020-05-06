@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgba(36,37,38,1) 0%, rgba(44,47,48,1) 100%);
+
+}
+::-webkit-scrollbar {
+  width: 0px;
 }
 
 code {
